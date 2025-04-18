@@ -1,5 +1,6 @@
 import React from 'react';
 import './table.css';
+import Navbar from './Navbar';
 
 
 const handleClick = () => {
@@ -21,6 +22,10 @@ const handleChange = () => {
 
 function Table() {
   return (
+
+    <div >
+  
+      <Navbar/>
     <div className="container">
       <div className="description">
         <p>
@@ -35,6 +40,7 @@ function Table() {
 
       <div className="table-output" id='table-output'>
       </div>
+    </div>
     </div>
   );
 }
