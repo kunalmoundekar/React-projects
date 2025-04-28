@@ -1,4 +1,4 @@
-React Projects Collection 🚀
+React Projects Collection 🚀<br>
 This repository contains a collection of various React.js projects that I have built while learning and exploring React.
 Each project is organized inside its own folder, with separate source code (src), public assets (public), and other necessary files.
 
